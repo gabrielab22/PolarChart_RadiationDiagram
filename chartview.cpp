@@ -40,6 +40,8 @@ void ChartView::keyPressEvent(QKeyEvent *event)
         QGraphicsView::keyPressEvent(event);
         break;
     }
+
+   
 }
 //![1]
 
